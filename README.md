@@ -13,7 +13,7 @@ To run the project locally, enter the local directory and run the command, 'npm 
 # Project Structure
 
 ## Overall
-The project follows a component based architecure approach and has 3 mainc components. 
+The project follows a component based architecure approach and has 3 main components. 
 - Grid: The grid component is responsible for bacterial division logic, interacting with the grid and rendering the grid
 - Plotter: The plotter is responsible for the logic in rendering the live plot
 - App: The App component serves as a controller. It is responsible for creating the grid and plotting diagrams from the grid settings, while also communicating data received from the grid to the plotter. 
@@ -62,7 +62,7 @@ One of upsides from the implementation of the x-axis and y-axis is that it is in
 - Grid Render: N cols with n cells in each col. O(n^2) 
 
  ## App
- - Get Bacteria Function: n^2
+ - Get Bacteria Function: O(n^2)
  - Render Y-axis: O(1)
  - Render X-axis: O(1)
 
