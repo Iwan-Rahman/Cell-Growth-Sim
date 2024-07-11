@@ -1,4 +1,5 @@
 # Project Overview
+Live App: https://app.netlify.com/sites/exquisite-syrniki-527d60/overview
 
 The project simulates bacterial growth in an n x n petri dish represented on a grid.
 
