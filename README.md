@@ -9,7 +9,7 @@ The user is able to pause and play the simulation, manually place or remove bact
 
 # Local Setup
 
-To run the project locally, enter the local directory and run the command, 'npm run dev' in a terminal. The project will then be hosted locally, and a link to the localhost will be displayed in the terminal. Paste the link in a browser to view the project.
+To run the project locally, enter the local directory and run the command, 'npm install' to install project dependencies and then 'npm run dev' in a terminal. The project will then be hosted locally, and a link to the localhost will be displayed in the terminal. Paste the link in a browser to view the project.
 
 # Project Structure
 
